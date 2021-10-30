@@ -1,2 +1,3 @@
-# nfc-cartao-credito
-Capturando dados do cartão via NFC
+# nfc_manager_example
+
+Demonstrates how to use the nfc_manager plugin.

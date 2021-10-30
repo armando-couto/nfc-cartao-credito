@@ -30,9 +30,6 @@
 .pub-cache/
 .pub/
 /build/
-.fvm/flutter_sdk/
-nfc_cartao_credito.iml
-.idea/
 
 # Web related
 lib/generated_plugin_registrant.dart
@@ -42,3 +39,8 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
